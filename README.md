@@ -2,17 +2,6 @@
 
 ## radar_wrangler Repository Information
 
-- **repo logo**
-- **radar_wrangler**
-- **qiceradar**
-- **Language**: Jupyter Notebook
-- **Created**: 11/03/2022
-- **Last updated**: 07/08/2024
-- **License**: BSD 3-Clause "New" or "Revised"
-- **Software Version**: u-0.0.1Basic
-- **Generated from Commit**: be70b3
-- **Generated on**: 07/24/2024
-
 ### Architecture Diagram for radar_wrangler
 
 The radar_wrangler repository provides tools for downloading, indexing, and processing radar data from various Antarctic research institutions. It solves the problem of managing and organizing large amounts of radar data from different sources by providing a unified workflow for data acquisition, storage, and visualization.
